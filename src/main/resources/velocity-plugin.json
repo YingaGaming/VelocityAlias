@@ -1,0 +1,9 @@
+{
+	"id": "velocityalias",
+	"name": "VelocityAlias",
+	"version": "1.0.0",
+	"description": "Command aliases for Velocity",
+	"main": "games.yinga.velocityalias.VelocityAlias",
+	"authors": ["xenorio"]
+  }
+  

@@ -1,0 +1,3 @@
+[aliases]
+lobby = "server lobby"
+anothercommand = "myothercommand"
